@@ -1,0 +1,39 @@
+
+		.no-margin-bottom{
+			margin-bottom:0px;
+		}
+		.mylayui-inline{
+			height:30px;
+		}
+		.mylayui-form-label{
+			height:28px;
+			width:100px;
+			line-height: 28px;
+			padding:1px 5px;
+			font-size:10px; 
+			color:#6C6C6C;
+		}
+		.content-layui-form-label{
+			height:28px;
+			width:100px;
+			line-height: 28px;
+			padding:1px 5px;
+			font-size: 12px;
+			color:#6C6C6C;
+		}
+		.mylayui-input-inline{
+			
+		}
+		.mylayui-input{
+			height:28px;
+			width:140px;
+		}
+		select {
+    		border: solid 1px #D8D8D8;
+		}
+		td{
+			padding: 10px 10px;
+			border-bottom:1px solid #8E8E8E;
+			font-size:10px; 
+			color:#8E8E8E;
+		}

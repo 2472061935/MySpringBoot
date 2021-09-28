@@ -1,0 +1,25 @@
+
+		.no-margin-bottom{
+			margin-bottom:0px;
+		}
+		.mylayui-inline{
+			height:30px;
+		}
+		.mylayui-form-label{
+			height:28px;
+			width:80px;
+			line-height: 28px;
+			padding:1px 5px;
+			font-size:10px; 
+			color:#6C6C6C;
+		}
+		.mylayui-input-inline{
+			
+		}
+		.mylayui-input{
+			height:28px;
+			width:140px;
+		}
+		select {
+    		border: solid 1px #D8D8D8;
+		}
